@@ -1,0 +1,30 @@
+.card-image-div {
+  min-height: 180px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+.card {
+  border: 1px solid #c6cf99;
+}
+
+.card-body {
+  padding: 10px;
+}
+
+.card h5 { 
+  margin-bottom: 8px;
+}
+
+.card p { 
+  margin-bottom: 0 auto 4px;
+}
+
+.card-text { 
+  font-size: 12px;
+}
+
+.catalog {
+  min-height: 600px;
+}
